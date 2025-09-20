@@ -737,9 +737,9 @@ const carsData = [
     "car_brand": null,
     "car_color": "Gray",
     "status": "available"
-  }
-];
-[{
+  },
+
+{
   "CAR_MODEL": 2023,
   "CAR_NUM": 72602,
   "PRICEPERDAY": 20,
