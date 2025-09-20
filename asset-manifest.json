@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/al-fakhama-car-rental/static/css/main.92c8d4eb.css",
+    "main.js": "/al-fakhama-car-rental/static/js/main.82127bf7.js",
+    "static/js/453.75c8e397.chunk.js": "/al-fakhama-car-rental/static/js/453.75c8e397.chunk.js",
+    "index.html": "/al-fakhama-car-rental/index.html",
+    "main.92c8d4eb.css.map": "/al-fakhama-car-rental/static/css/main.92c8d4eb.css.map",
+    "main.82127bf7.js.map": "/al-fakhama-car-rental/static/js/main.82127bf7.js.map",
+    "453.75c8e397.chunk.js.map": "/al-fakhama-car-rental/static/js/453.75c8e397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.82127bf7.js"
+  ]
+}
