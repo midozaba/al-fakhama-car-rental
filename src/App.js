@@ -737,21 +737,9 @@ const carsData = [
     "car_brand": null,
     "car_color": "Gray",
     "status": "available"
-  },
-
-{
-  "CAR_MODEL": 2023,
-  "CAR_NUM": 72602,
-  "PRICEPERDAY": 20,
-  "MILEAGE": null,
-  "category_id": null,
-  "priceperweek": 18,
-  "pricepermonth": 15,
-  "car_brand": null,
-  "car_color": "Silver",
-  "status": "available"
-}
+  }
 ];
+
 
 const App = () => {
   const [language, setLanguage] = useState('ar');
